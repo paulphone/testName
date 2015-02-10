@@ -1,3 +1,6 @@
+#include <iostream>
 
-test line 2
-test line 3
+int main() {
+  std::cout << "Hello World\n";
+  return 0;
+}
