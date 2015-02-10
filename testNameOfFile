@@ -3,7 +3,9 @@
 int main() {
   std::cout << "Hello World\n";
   if(true)
+  {
     int x = 0;
+  }
   else
     int y = 0;
   return 0;
