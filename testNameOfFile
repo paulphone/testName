@@ -6,7 +6,9 @@ int main() {
   {
     int x = 0;
   }
-  else
-    int y = 0;
+  else if (true)
+  {
+    // another comment area
+  }
   return 0;
 }
